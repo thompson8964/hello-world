@@ -1,8 +1,10 @@
 //this is an excerise for practising javascript
-let line = ("# # # #\n # # # #")
+let line = ("# # # #")
+let line2 = (" # # # #")
 let size = 8
 let linesNum = 0
 while (linesNum <= size ) {
   console.log(line)
+  console.log(line2)
   linesNum = linesNum+1
   }
