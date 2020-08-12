@@ -1,0 +1,10 @@
+let min = function(x,y){
+  if (x-y < 0) {
+    return x
+    }
+  else {
+    return y
+    }
+}
+console.log(min(1,2))
+// this is an excerise in javscript.
