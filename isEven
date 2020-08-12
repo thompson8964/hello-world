@@ -1,0 +1,7 @@
+let isEven = function(n){
+  while (n >= 2) {
+    n = n-2
+    }
+  return(n==0)
+}
+console.log(isEven(50))
