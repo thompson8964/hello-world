@@ -1,0 +1,5 @@
+let countBs = function(x){
+  let char = string.length(x)
+  let n = 0
+  while (n < char) {
+    
